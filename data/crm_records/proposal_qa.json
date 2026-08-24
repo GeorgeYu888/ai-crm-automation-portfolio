@@ -1,0 +1,7 @@
+{
+  "customer": "Example Cold Storage Pty Ltd",
+  "contact_email": "ops@examplecold.com.au",
+  "workflow": "commercial proposal draft",
+  "notes": "Proposal mentions 180kW solar, grid connection pending, rebate eligibility unknown, missing final interval data.",
+  "requested_output": "quality check before sales sends proposal"
+}

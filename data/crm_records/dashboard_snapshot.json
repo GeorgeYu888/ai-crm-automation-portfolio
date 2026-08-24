@@ -1,0 +1,13 @@
+{
+  "period": "Last 14 days",
+  "metrics": {
+    "new_leads": 84,
+    "booked_calls": 19,
+    "show_rate_percent": 68,
+    "workshop_registrations": 11,
+    "automation_failures": 3,
+    "unassigned_contacts": 7
+  },
+  "manager_notes": "CEO wants a plain-English summary for the weekly operating meeting: where leads are stuck, which automation needs attention and who needs follow-up.",
+  "requested_output": "Dashboard narrative with headline metrics, pipeline risks, automation health, client follow-ups and data gaps"
+}

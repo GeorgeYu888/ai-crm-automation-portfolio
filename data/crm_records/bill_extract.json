@@ -1,0 +1,6 @@
+{
+  "customer": "Example Manufacturing",
+  "nmi": "62031234567",
+  "bill_text": "Peak usage 18420 kWh, demand charge 91 kW, tariff business demand, interval data not yet supplied.",
+  "requested_output": "structured bill fields and anomalies"
+}

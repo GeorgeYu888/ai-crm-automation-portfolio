@@ -1,0 +1,6 @@
+{
+  "automation": "Landing page form -> Zapier -> GoHighLevel contact -> Slack alert -> email sequence enrolment",
+  "incident": "Three workshop leads submitted the form but only one appeared in the CRM. Slack alerts were not sent. Email sequence enrolment is unknown.",
+  "known_change": "Landing page field 'mobile_phone' was renamed to 'phone' yesterday.",
+  "requested_output": "Incident review, likely cause, data checks, safe fix plan, rollback plan and client update"
+}
